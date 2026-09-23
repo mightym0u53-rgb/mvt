@@ -21,7 +21,7 @@ dependencies = [
     "rich==15.0.0",
     "tld==0.13.2",
     "requests==2.34.2",
-    "simplejson==4.1.1",
+    "simplejson==4.1.2",
     "packaging==26.3",
     "appdirs==1.4.4",
     "iphone_backup_decrypt==0.10.0",
